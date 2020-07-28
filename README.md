@@ -30,7 +30,7 @@ The above command will start the server in development mode.
 This should be used only for development. For production use `gunicorn`
 
 ---
-Load the postman_collection.json file in Postman app to test the APIs.
+Load the `postman_collection.json` file in Postman app to test the APIs.
 
 ---
 Folder structure.
